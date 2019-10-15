@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">UIDynamic</string>
+    <string name="title_activity_menu_slide2">Dioses de la Mitologia Griega</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Poseidon">POSEIDON</string>
+    <string name="Poseidon_Description">Es el dios de los mares y, como «Agitador de la
+        Tierra», de los terremotos en la mitología griega</string>
+
+    <string name="Zeus">ZEUS</string>
+    <string name="Zeus_Description">
+         Zeus es una divinidad a la que se denomina a veces con el título de «padre de los
+        dioses y los hombres», que gobierna a los dioses del Olimpo como un padre a una familia
+        Es el rey de los dioses y supervisa el universo.
+    </string>
+
+    <string name="Hades">HADES</string>
+    <string name="Hades_Description">Alude tanto al antiguo inframundo griego como al dios de éste
+        Hades es el guardián de los infiernos, el señor del reino bajo tierra, el rey de los muertos.
+        Es, en consecuencia, una de las divinidades
+        más poderosas de todo el panteón clásico, cediendo sólo poder ante su hermano Zeus
+    </string>
+
+    <string name="Ares">ARES</string>
+    <string name="Ares_Description">era la manifestación de la violencia y la fuerza bruta. Es el Dios de la guerra y la
+        contraparte de su hermana Atenea. Hijo de Zeus y de su hermana Hera</string>
+
+    <string name="Hefesto">HEFESTO</string>
+    <string name="Hefesto_Description">Dios del fuego y de la forja, Hefesto era considerado el protector de todo aquel
+        que realizaba trabajos de metalurgia o artesanía. Era hijo de Hera y Zeus</string>
+
+    <string name="Afrodita">AFRODITA</string>
+    <string name="Afrodita_Description">es la diosa de la belleza y la lujuria, la pasión y todo lo relacionado al sexo
+        y la reproducción. Nacida del esperma de Urano, al que le fueron cortados los testículos por Cronos, Afrodita nació
+        en el mar siendo una adulta e inmediatamente fue deseada por muchos dioses.</string>
+
+</resources>
